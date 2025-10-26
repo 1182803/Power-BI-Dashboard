@@ -16,5 +16,3 @@ Breakdown of sales by product categories
 Top 5 products by sales and reviews
 
 Tools Used: Power BI, Excel, Data Visualization, Data Analysis
-
-https://github.com/1182803/Power-BI-Dashboard/blob/main/Screenshot%202025-10-25%20135657.png
